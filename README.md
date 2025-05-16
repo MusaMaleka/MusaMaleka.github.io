@@ -106,3 +106,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Horizontal bar chart 
 
 
+
+
+![Dashboard-Mockup](Assets/Images/dashboard_mockup.png)
+
