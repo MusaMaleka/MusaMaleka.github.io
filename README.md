@@ -240,7 +240,8 @@ FROM
     view_uk_youtubers_2024;
 ```
 
-pic should be here
+![Row count check](Assets/Images/RowCheck.png)
+
 ## Column count check
 ### SQL query 
 ```sql
@@ -257,7 +258,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
 ### Output 
-pic should be here
+![Column count check](Assets/Images/ColumnCheck.png)
 
 ## Data type check
 ### SQL query 
@@ -276,7 +277,7 @@ WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
 ### Output
-pic should be here
+![Data type check](Assets/Images/DataCheck.png)
 
 ## Duplicate count check
 ### SQL query 
@@ -303,19 +304,17 @@ HAVING
     COUNT(*) > 1;
 ```
 ### Output
-pic should be here
+![Duplicate count check](Assets/Images/DuplicateRecords.png)
 
 # Visualization 
-
 
 ## Results
 
 - What does the dashboard look like?
 
-pic should be here
+![Power BI Dashboard](Assets/Images/Report.png)
 
 This shows the Top UK Youtubers in 2024 so far. 
-
 
 ## DAX Measures
 
@@ -561,7 +560,7 @@ ORDER BY
 ```
 
 #### Output
-pic should be here
+![Most subscribers](Assets/Images/ValidationSubscribers.png)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -650,7 +649,7 @@ ORDER BY
 
 #### Output
 
-pic should be here
+![Most Videos](Assets/Images/ValidationVideos.png)
 
 
 ### 3.  Youtubers with the most views 
@@ -744,7 +743,7 @@ ORDER BY
 
 #### Output
 
-pic should be here
+![Most Views](Assets/Images/ValidationViews.png)
 
 ## Discovery
 
